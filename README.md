@@ -53,7 +53,7 @@ out = model.predict(
 
 ## Installation
 Clone:  
-`$ git clone --recursive https://github.com/tattaka/unsupervised-hdr-imaging.git`
+`$ git clone https://github.com/tattaka/unsupervised-hdr-imaging.git`
 
 Using pip:  
 `$ cd unsupervised-hdr-imaging`  
